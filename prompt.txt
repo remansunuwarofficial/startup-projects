@@ -1,0 +1,2598 @@
+# GALAXY DECOR — PREMIUM DIGITAL SHOWROOM WEBSITE
+
+## MASTER MARKDOWN PROMPT
+
+# **Role:**
+
+Act as a **Senior Full-Stack Web Developer, Premium UI/UX Designer, Product Designer, Conversion Optimization Specialist, SEO Strategist, Motion Designer, Accessibility Specialist, Performance Engineer, and Digital Brand Consultant**.
+
+Your responsibility is to design and architect a **premium digital showroom website for Galaxy Decor**.
+
+The website must feel like a **high-end furniture and interior design brand**, not a generic furniture-store template.
+
+---
+
+# **Objective:**
+
+Create a:
+
+* Premium
+* Minimal Luxury
+* Elegant
+* Modern
+* Highly visual
+* Warm
+* Architectural
+* Editorial
+* Trustworthy
+* Responsive
+* Mobile-first
+* Fast-loading
+* SEO-optimized
+* Bilingual-ready
+* Mostly static
+* Lead-generation-focused
+
+website for **Galaxy Decor**.
+
+The primary objective is:
+
+> **Premium Digital Showroom + Product Catalogue + Product Discovery + Lead Generation**
+
+The customer journey should be:
+
+```text
+Discover
+→
+Explore
+→
+Evaluate
+→
+Request Price
+→
+WhatsApp / Call
+→
+Visit Showroom
+```
+
+The MVP should prove three things:
+
+1. Galaxy Decor furniture can be presented beautifully.
+2. Customers can discover and understand products easily.
+3. Customers can contact Galaxy Decor with minimum friction.
+
+The website should **not initially become a complicated ecommerce platform**.
+
+Do NOT prioritize:
+
+* Shopping carts
+* Online checkout
+* Payment gateways
+* Customer accounts
+* Inventory management
+* Customer dashboards
+* Complex backend databases
+* Large admin systems
+* Unnecessary authentication
+* Unnecessary SaaS-style functionality
+
+---
+
+# **Context:**
+
+## **Business Information**
+
+### Business Name
+
+**Galaxy Decor**
+
+### Industry
+
+**Premium Furniture & Interior Solutions**
+
+### Location
+
+**Bhaisepati, Lalitpur, Nepal**
+
+### Postal Code
+
+**44600**
+
+### Brand Tagline
+
+**“We Design your Home more Beautiful”**
+
+### Core Values
+
+**Quality. Comfort. Class.**
+
+### Nepali Brand Values
+
+**गुणस्तर • आराम • श्रेणी**
+
+---
+
+## **Target Audience**
+
+The primary audience is:
+
+* Homeowners in Nepal
+* Middle-class and upper-class customers
+* Customers looking for premium furniture
+* Customers looking for customized furniture
+* Customers interested in interior solutions
+* Customers looking for furniture for bedrooms
+* Customers looking for furniture for living rooms
+* Customers looking for dining furniture
+* Customers looking for study and office furniture
+
+The website should communicate premium quality without appearing inaccessible, overly luxurious, or artificial.
+
+---
+
+## **Known Business Contact Information**
+
+### Phone Numbers
+
+```text
+971-6719650
+9716758650
+985-1023765
+```
+
+### Primary Email
+
+```text
+galaxydecorofficial@gmail.com
+```
+
+### Secondary Email
+
+```text
+galaxyfurniture.pokhara@gmail.com
+```
+
+Do not automatically publish the secondary email as the primary official business email.
+
+Keep the primary email configurable until the client confirms which address should be publicly displayed.
+
+### WhatsApp
+
+Potential WhatsApp number:
+
+```text
++977 9716719650
+```
+
+Potential WhatsApp URL:
+
+```text
+https://wa.me/9779716719650
+```
+
+Use it as the primary WhatsApp CTA only after confirming that it is the client's preferred WhatsApp number.
+
+---
+
+## **Real Client Assets**
+
+The final website must use **actual Galaxy Decor assets**.
+
+Prioritize:
+
+1. Galaxy Decor logo
+2. Galaxy Decor hero/banner image
+3. Galaxy Decor storefront photograph
+4. Actual product photographs
+5. Actual showroom photographs
+6. Actual project photographs
+7. Actual custom furniture photographs
+
+NEVER replace genuine client assets with:
+
+* Unsplash furniture
+* Pexels furniture
+* Stock furniture
+* AI-generated furniture
+* Fake furniture
+* Generic furniture imagery
+* Fake interior projects
+* Fake product photography
+
+If an image is unavailable during development, use an obvious temporary asset placeholder.
+
+Do not invent fake products merely to make the page look full.
+
+Do not alter product photography in ways that change the actual furniture appearance.
+
+---
+
+# **Instructions:**
+
+## **Instruction 1: Build the MVP Around Minimal Luxury**
+
+The visual direction is permanently set to:
+
+# **MINIMAL LUXURY**
+
+The website should feel:
+
+* Minimal
+* Contemporary
+* Elegant
+* Warm
+* Premium
+* Architectural
+* Sophisticated
+* Calm
+* Editorial
+* Photography-driven
+
+The design should feel closer to:
+
+> **A premium furniture editorial catalogue + interior design studio**
+
+than a normal furniture shop website.
+
+---
+
+## **Instruction 2: Use the Minimal Luxury Color System**
+
+### Warm Ivory
+
+```text
+#F6F2EA
+```
+
+Primary background.
+
+### Deep Black
+
+```text
+#111111
+```
+
+Use for:
+
+* Typography
+* Navigation
+* Strong contrast
+* Dramatic sections
+
+### Gold
+
+```text
+#D4AF37
+```
+
+Use sparingly for:
+
+* Fine borders
+* Dividers
+* Small accents
+* Premium details
+* Selected highlights
+
+### Orange
+
+```text
+#FF7F00
+```
+
+Use sparingly for:
+
+* Primary conversion actions
+* Important CTAs
+* Selected highlights
+
+### White
+
+```text
+#FFFFFF
+```
+
+Use where appropriate for clean content areas.
+
+Do NOT make the entire website black.
+
+Use:
+
+```text
+Black = Drama
+Ivory = Luxury
+Gold = Refinement
+Orange = Energy + Conversion
+```
+
+Visual hierarchy:
+
+```text
+Photography
+→
+Typography
+→
+Whitespace
+→
+Black
+→
+Gold
+→
+Orange
+```
+
+---
+
+## **Instruction 3: Use Editorial Typography**
+
+Use:
+
+### Headings
+
+**Playfair Display**
+
+### Body
+
+**Poppins**
+
+Typography must feel:
+
+* Elegant
+* Premium
+* Editorial
+* Highly readable
+
+Maintain:
+
+* Strong hierarchy
+* Generous line-height
+* Large section spacing
+* Comfortable mobile typography
+* Consistent heading scale
+
+Do not introduce unnecessary font families.
+
+---
+
+## **Instruction 4: Avoid Generic Design Patterns**
+
+Avoid:
+
+* Cheap-looking gradients
+* Loud gradients
+* Excessive glassmorphism
+* Excessive rounded cards
+* Excessive shadows
+* Cartoon icons
+* Generic SaaS layouts
+* Template-like sections
+* Crowded layouts
+* Giant walls of text
+* Too many colors
+* Excessive boxed sections
+* Excessive centered content
+* Excessive animations
+
+Do not make every component:
+
+* Rounded
+* Boxed
+* Centered
+* Gradient-filled
+
+Use visual rhythm and editorial composition.
+
+---
+
+## **Instruction 5: Create the Website Architecture**
+
+Main routes:
+
+```text
+/
+```
+
+Homepage
+
+```text
+/collections/
+```
+
+Furniture categories
+
+```text
+/products/
+```
+
+All products
+
+```text
+/products/[product-slug]/
+```
+
+Individual static product pages
+
+```text
+/custom-furniture/
+```
+
+Custom furniture and interior solutions
+
+```text
+/projects/
+```
+
+Projects, showroom work and interior showcases
+
+```text
+/about/
+```
+
+About Galaxy Decor
+
+```text
+/contact/
+```
+
+Contact and showroom information
+
+```text
+/privacy/
+```
+
+Privacy page
+
+```text
+/terms/
+```
+
+Terms page
+
+Also create:
+
+* sitemap.xml
+* robots.txt
+* canonical URLs
+
+---
+
+## **Instruction 6: Create the Homepage as a Visual Story**
+
+The homepage should NOT feel like a random collection of business sections.
+
+Use this narrative:
+
+```text
+Hero
+→
+Brand Philosophy
+→
+Collections
+→
+Featured Products
+→
+Custom Furniture
+→
+Projects
+→
+Why Galaxy Decor
+→
+Showroom
+→
+Contact
+```
+
+---
+
+## **Instruction 7: Build the Hero Section**
+
+Use the authentic Galaxy Decor hero/banner.
+
+Headline:
+
+> **We Design Your Home More Beautiful**
+
+Supporting text:
+
+> **Premium furniture and interior solutions crafted with Quality, Comfort & Class.**
+
+Nepali supporting text:
+
+> **गुणस्तर, आराम र श्रेणीका साथ तपाईंको घरलाई अझ सुन्दर बनाउँछौं।**
+
+Primary CTA:
+
+**Explore Collection**
+
+Secondary CTA:
+
+**Request Price**
+
+Optional CTA:
+
+**Talk to Us on WhatsApp**
+
+Hero animation:
+
+* Image reveal
+* Text fade-up
+* CTA stagger
+* Extremely subtle image movement/parallax
+
+Do not animate everything simultaneously.
+
+---
+
+## **Instruction 8: Create the Brand Philosophy Section**
+
+Immediately after the hero, introduce an editorial statement:
+
+> **Furniture should not simply fill a room.**
+> **It should define how the room feels.**
+
+Then introduce Galaxy Decor briefly.
+
+Use:
+
+* Large typography
+* Generous whitespace
+* Concise copy
+* Editorial composition
+
+Avoid long paragraphs.
+
+---
+
+## **Instruction 9: Create Rich Furniture Collections**
+
+Categories:
+
+* Sofas
+* Beds
+* Wardrobes
+* Dining
+* Study Tables
+* Book Stands
+* Office Furniture
+* Custom Furniture
+
+Whenever possible, every category must use an authentic Galaxy Decor photograph.
+
+Do not make every category card identical.
+
+Use:
+
+* Different image ratios
+* Varied compositions
+* Asymmetrical placement
+* Editorial layouts
+
+CTA:
+
+**Explore Collection**
+
+---
+
+## **Instruction 10: Build the Product Catalogue**
+
+The catalogue must allow customers to:
+
+* View all furniture
+* Browse categories
+* Search products
+* Filter products
+* Open individual products
+* View multiple photographs
+* Read descriptions
+* View specifications
+* Request prices
+* Contact Galaxy Decor
+
+---
+
+## **Instruction 11: Create Premium Product Cards**
+
+Every product card should contain:
+
+1. Real product photograph
+2. Product name
+3. Product description
+4. Category
+5. Optional metadata
+6. View Details
+7. Request Price
+8. Optional WhatsApp action
+
+Descriptions should remain:
+
+* Clear
+* Premium
+* Human
+* Concise
+* Customer-focused
+
+The description may be professionally optimized for better writing, but it must **not change the actual perception of the product or invent characteristics**.
+
+---
+
+## **Instruction 12: Create Individual Product Pages**
+
+Every important product should have its own SEO-friendly static page.
+
+Example:
+
+```text
+/products/modern-tufted-bed/
+```
+
+Include:
+
+### Breadcrumb
+
+```text
+Home → Beds → Modern Tufted Bed
+```
+
+### Product area
+
+* Large image
+* Product name
+* Short description
+* Detailed description
+* Image gallery
+
+### Product information
+
+When supplied:
+
+* Material
+* Dimensions
+* Colors
+* Customization
+* Specifications
+* Care information
+* Availability
+* Price
+
+If price is not supplied or should remain private:
+
+**Price available on request**
+
+### Product actions
+
+* Request Price
+* WhatsApp
+* Call
+
+### Related Products
+
+Show relevant products underneath.
+
+---
+
+## **Instruction 13: Protect Product Information Accuracy**
+
+Never invent:
+
+* Material
+* Dimensions
+* Colors
+* Specifications
+* Price
+* Availability
+* SKU
+* Warranty
+* Delivery details
+* Installation details
+* Product ratings
+* Product reviews
+
+If information is unavailable:
+
+> **Omit it rather than fabricate it.**
+
+---
+
+## **Instruction 14: Build Product Discovery**
+
+### Category Filtering
+
+Provide:
+
+```text
+All Products
+Sofas
+Beds
+Wardrobes
+Dining
+Study
+Office
+Custom
+```
+
+Filtering must be:
+
+* Instant
+* Client-side
+* Backend-free
+* Mobile-friendly
+
+### Product Search
+
+Search through:
+
+* Product name
+* Category
+* Keywords
+
+Example:
+
+```text
+bed
+```
+
+should display relevant bed products.
+
+### Sorting — Future
+
+Possible future sorting:
+
+* Featured
+* Newest
+* A–Z
+* Category
+
+Do not overcomplicate the MVP with advanced sorting.
+
+---
+
+## **Instruction 15: Build Furniture Evaluation Features**
+
+Customers should be able to evaluate whether furniture is appropriate for their space.
+
+When verified information exists, show:
+
+### Dimensions
+
+* Width
+* Height
+* Depth
+
+### Material
+
+Only verified materials.
+
+### Colors
+
+Display available choices visually where applicable.
+
+### Customization
+
+Clearly indicate confirmed customization availability.
+
+### Availability
+
+Only if supplied by the client.
+
+---
+
+## **Instruction 16: Build the Product Image Experience**
+
+Support:
+
+* Large product photographs
+* Multiple images
+* Full-screen viewing
+* Zoom
+* Mobile swipe
+* Responsive image sizing
+* Lazy loading
+* Optimized assets
+
+Use:
+
+* WebP
+* AVIF
+
+where practical.
+
+Use descriptive filenames.
+
+Bad:
+
+```text
+IMG_7843.jpg
+```
+
+Good:
+
+```text
+galaxy-decor-grey-tufted-bed-bhaisepati.webp
+```
+
+Use descriptive ALT text.
+
+Example:
+
+```text
+Modern tufted grey bed at Galaxy Decor Bhaisepati Lalitpur
+```
+
+---
+
+## **Instruction 17: Preserve Image Authenticity**
+
+Never:
+
+* Change the furniture design
+* Add fake furniture
+* Generate misleading environments
+* Use deceptive shadows
+* Distort proportions
+* Change colors deceptively
+* Replace actual furniture with AI furniture
+* Create fake projects
+
+Authentic Galaxy Decor photography must remain the visual foundation.
+
+---
+
+## **Instruction 18: Build "Find Your Furniture"**
+
+Create an intuitive discovery interaction:
+
+> **What are you looking for?**
+
+Options:
+
+* Living Room
+* Bedroom
+* Dining
+* Study
+* Office
+* Custom
+
+Selecting an option should immediately reveal or filter relevant products.
+
+This can be part of the MVP as a lightweight discovery experience.
+
+---
+
+## **Instruction 19: Add Shop by Room**
+
+Create a room-based discovery system.
+
+### Living Room
+
+* Sofas
+* TV Units
+* Tables
+
+### Bedroom
+
+* Beds
+* Wardrobes
+* Side Tables
+
+### Dining Room
+
+* Dining Sets
+* Chairs
+* Tables
+
+This complements category-based navigation.
+
+It does not replace the product catalogue.
+
+---
+
+## **Instruction 20: Build Custom Furniture**
+
+Create:
+
+```text
+/custom-furniture/
+```
+
+Headline:
+
+> **Made for Your Space**
+
+Supporting concept:
+
+> **Furniture designed around your room, lifestyle and preferences.**
+
+Suggested journey:
+
+```text
+Tell us what you need
+→
+Discuss Design
+→
+Confirm Requirements
+→
+Get Quotation
+```
+
+Possible content:
+
+* Custom furniture
+* Custom dimensions
+* Interior solutions
+* Room-specific furniture
+* Design consultation
+
+Only advertise capabilities confirmed by Galaxy Decor.
+
+---
+
+## **Instruction 21: Add "Describe Your Space"**
+
+Create a premium CTA:
+
+> **Have a specific space in mind?**
+
+CTA:
+
+> **Tell us about your space →**
+
+Potential fields:
+
+* Room type
+* Approximate dimensions
+* Furniture required
+* Preferred style
+* Preferred color
+
+Allow submission through:
+
+* WhatsApp
+* Lightweight enquiry form
+
+---
+
+## **Instruction 22: Build WhatsApp Product Enquiries**
+
+When a customer clicks:
+
+**Request Price**
+
+generate a pre-filled WhatsApp message containing the selected product.
+
+Example:
+
+> Hello Galaxy Decor, I'm interested in the Modern Tufted Bed. Could you please provide the price and available customization options?
+
+The goal is:
+
+**Minimum customer effort → Maximum enquiry convenience**
+
+---
+
+## **Instruction 23: Build the Conversion System**
+
+Important conversion actions:
+
+* Request Price
+* WhatsApp
+* Call Now
+* Email
+* Get Directions
+* Visit Showroom
+
+Contact should always be easy to find.
+
+---
+
+## **Instruction 24: Add Floating WhatsApp**
+
+Provide a floating WhatsApp button across important pages.
+
+Requirements:
+
+* Persistent
+* Subtle
+* Accessible
+* Mobile-friendly
+* Never obstruct content
+* Correctly opens WhatsApp
+
+Use a gentle pulse only.
+
+Do not create annoying animation.
+
+On mobile, consider:
+
+```text
+WhatsApp | Call | Request Price
+```
+
+as a compact bottom action bar.
+
+---
+
+## **Instruction 25: Build the Projects Showcase**
+
+Do not make the website entirely product-card based.
+
+Create an editorial project section featuring genuine Galaxy Decor work.
+
+Potential categories:
+
+* Living rooms
+* Bedrooms
+* Dining spaces
+* Wardrobes
+* Office interiors
+* Custom furniture
+* Showroom photography
+
+Headline:
+
+> **See How We Transform Spaces**
+
+CTA:
+
+**View Our Work**
+
+Use large visual compositions.
+
+---
+
+## **Instruction 26: Build Shop the Room — Advanced**
+
+When real project photographs are available, allow customers to interact with individual furniture items inside the room.
+
+Example:
+
+```text
+Real Bedroom Photograph
+
+[ Bed ]
+[ Wardrobe ]
+[ Side Table ]
+```
+
+Each interactive item should link to its corresponding product page.
+
+Purpose:
+
+> **Turn real Galaxy Decor project photography into an interactive product catalogue.**
+
+Never fabricate the room or the furniture.
+
+---
+
+## **Instruction 27: Build Before / After — Advanced**
+
+When real before-and-after project images are available:
+
+Provide:
+
+**Before → After**
+
+using an interactive comparison slider.
+
+Do not fabricate before-and-after photographs.
+
+---
+
+## **Instruction 28: Build the About Page**
+
+Create:
+
+```text
+/about/
+```
+
+Use the authentic Galaxy Decor storefront photograph.
+
+Show:
+
+**Galaxy Decor**
+
+**Bhaisepati, Lalitpur, Nepal**
+
+Explain the verified focus on:
+
+* Furniture
+* Comfort
+* Visual elegance
+* Custom solutions
+* Interior spaces
+
+Do not invent:
+
+* Founding year
+* Employee numbers
+* Customer counts
+* Awards
+* Certifications
+* Years of experience
+
+---
+
+## **Instruction 29: Build Why Galaxy Decor**
+
+Create three core pillars.
+
+### Quality
+
+Thoughtfully selected furniture and finishes.
+
+### Comfort
+
+Furniture designed around everyday living.
+
+### Class
+
+Elegant forms that complement modern interiors.
+
+Only add claims such as:
+
+* Warranty
+* Professional installation
+* Nationwide delivery
+* Own manufacturing
+* Years of experience
+
+after client confirmation.
+
+---
+
+## **Instruction 30: Build the Contact Experience**
+
+Create:
+
+```text
+/contact/
+```
+
+Display:
+
+### Galaxy Decor
+
+**Bhaisepati, Lalitpur, Nepal**
+
+### Phone
+
+```text
+971-6719650
+9716758650
+985-1023765
+```
+
+### Email
+
+```text
+galaxydecorofficial@gmail.com
+```
+
+### WhatsApp
+
+Use the verified WhatsApp number.
+
+### Location
+
+Provide:
+
+**Get Directions**
+
+and a map.
+
+### CTA Actions
+
+* Call Now
+* WhatsApp Us
+* Request Price
+* Email
+* Get Directions
+
+---
+
+## **Instruction 31: Add Local Business Experience**
+
+Clearly establish Galaxy Decor as a physical showroom.
+
+Display consistently:
+
+**Galaxy Decor**
+
+**Bhaisepati, Lalitpur, Nepal**
+
+Include when verified:
+
+* Opening hours
+* Showroom information
+* Google Business Profile
+* Map
+* Directions
+
+---
+
+## **Instruction 32: Add Social Media**
+
+Use only verified profiles.
+
+### Facebook
+
+**Galaxy Decor**
+
+### Instagram
+
+**@galaxydecor.np**
+
+Do not invent social URLs.
+
+Keep profile URLs configurable if verification is pending.
+
+---
+
+## **Instruction 33: Build Navigation**
+
+Desktop:
+
+```text
+Home
+Collections
+Products
+Custom Furniture
+Projects
+About
+Contact
+```
+
+Primary CTA:
+
+**Request Price**
+
+Mobile:
+
+* Refined hamburger navigation
+* Visible logo
+* Request Price action
+* Clear hierarchy
+
+On scroll:
+
+* Header becomes slightly more solid
+* Maintain minimal luxury appearance
+
+Do not create a giant header.
+
+---
+
+## **Instruction 34: Build the Client Enquiry Form**
+
+MVP may include a lightweight form.
+
+Fields:
+
+```text
+Name
+Phone
+Furniture Interested In
+Message
+Optional Photo
+```
+
+CTA:
+
+**Send Enquiry**
+
+Route submissions through:
+
+* WhatsApp
+* Email
+
+Do not build a complex CRM in the MVP.
+
+---
+
+## **Instruction 35: Build Photo-Based Enquiries — Future**
+
+Allow customers to upload a room photograph and explain the requirement.
+
+Example:
+
+> **I want a wardrobe in this space.**
+
+Use this to give Galaxy Decor better information before direct communication.
+
+---
+
+## **Instruction 36: Add Style Filtering — Future**
+
+Possible styles:
+
+* Modern
+* Minimal
+* Classic
+* Luxury
+* Contemporary
+
+Only use styles that genuinely describe Galaxy Decor products.
+
+---
+
+## **Instruction 37: Add Product Comparison — Future**
+
+Allow users to compare furniture.
+
+Example:
+
+| Feature      | Product A | Product B |
+| ------------ | --------- | --------- |
+| Style        | Modern    | Classic   |
+| Material     | —         | —         |
+| Dimensions   | —         | —         |
+| Customizable | —         | —         |
+
+Only show verified information.
+
+---
+
+## **Instruction 38: Add Wishlist — Future**
+
+Allow users to:
+
+**♡ Save**
+
+products.
+
+Do not require accounts.
+
+Use local storage where appropriate.
+
+---
+
+## **Instruction 39: Add Recently Viewed — Future**
+
+Remember recently viewed products using local storage.
+
+Example:
+
+```text
+Bed
+→
+Wardrobe
+→
+Sofa
+```
+
+Then display:
+
+> **Recently Viewed**
+
+---
+
+## **Instruction 40: Add Smart Recommendations — Future**
+
+Provide:
+
+> **You May Also Like**
+
+Recommend relevant products using:
+
+* Category
+* Furniture type
+* Room
+* Related products
+
+Begin with simple category-based logic.
+
+---
+
+## **Instruction 41: Add Size / Fit Assistant — Future**
+
+Create:
+
+> **Will this fit my room?**
+
+Allow customers to enter room dimensions and compare them to verified furniture dimensions.
+
+Most useful for:
+
+* Beds
+* Sofas
+* Wardrobes
+* Dining tables
+
+Do not implement until reliable measurements exist.
+
+---
+
+## **Instruction 42: Add AI Room Visualizer — Advanced Future**
+
+Potential flow:
+
+```text
+Upload Room
+→
+Select Furniture
+→
+Generate Visualization
+```
+
+The system should visualize authentic Galaxy Decor products inside a customer's room.
+
+Do NOT implement this in the MVP.
+
+---
+
+## **Instruction 43: Add Space Planner — Advanced Future**
+
+Allow users to:
+
+1. Enter room dimensions.
+2. Explore compatible furniture.
+3. Compare furniture dimensions.
+4. Understand basic spatial fit.
+
+Only use verified measurements.
+
+---
+
+## **Instruction 44: Add AI Furniture Recommendation — Advanced Future**
+
+Create an intelligent questionnaire:
+
+```text
+Which room?
+What style?
+What color?
+What size?
+What furniture do you need?
+```
+
+Then recommend actual Galaxy Decor products.
+
+Do not recommend fictional products.
+
+---
+
+## **Instruction 45: Add Virtual Design Consultation — Advanced Future**
+
+Allow customers to submit:
+
+```text
+Room Photograph
++
+Requirements
++
+Preferences
+```
+
+Then send the structured enquiry to Galaxy Decor.
+
+---
+
+## **Instruction 46: Use a Static-First Architecture**
+
+Keep the website mostly static.
+
+Prefer:
+
+* Static pages
+* Static product data
+* Static JSON/TypeScript objects
+* Static image assets
+* Client-side filtering
+* Client-side search
+* Local-storage features where appropriate
+
+Do NOT introduce backend systems merely for:
+
+* Product display
+* Categories
+* Contact information
+* Enquiry buttons
+* Galleries
+
+Use:
+
+* WhatsApp
+* `tel:`
+* `mailto:`
+* Lightweight forms
+
+---
+
+## **Instruction 47: Use a Simple Product Data Model**
+
+Use data files such as:
+
+```text
+products.ts
+categories.ts
+projects.ts
+siteConfig.ts
+```
+
+Product structure:
+
+```text
+id
+slug
+name
+category
+shortDescription
+description
+images
+materials
+dimensions
+colors
+customizable
+price
+priceLabel
+featured
+seoTitle
+seoDescription
+altText
+```
+
+Only display values that exist.
+
+Adding a product should require adding a structured object.
+
+---
+
+## **Instruction 48: Avoid Overbuilding the Backend**
+
+Do NOT initially create:
+
+* Complex CMS
+* Inventory dashboard
+* Authentication system
+* User management
+* Order management
+* Customer dashboard
+* Payment processing
+* Ecommerce backend
+
+The MVP should stay lightweight.
+
+---
+
+## **Instruction 49: Implement SEO From the Beginning**
+
+### Technical SEO
+
+Implement:
+
+* Semantic HTML
+* Unique title per page
+* Unique meta description
+* Clean URLs
+* Canonical URLs
+* XML sitemap
+* robots.txt
+* Open Graph metadata
+* Twitter/X metadata
+* Descriptive headings
+* Descriptive image filenames
+* ALT text
+* Internal links
+* Breadcrumbs
+* Structured data
+* Mobile-first design
+* Fast-loading pages
+
+---
+
+## **Instruction 50: Implement Local SEO**
+
+Naturally establish relevance for:
+
+* Bhaisepati
+* Lalitpur
+* Kathmandu
+* Nepal
+
+Potential search themes:
+
+```text
+furniture shop in Lalitpur
+furniture shop Bhaisepati
+furniture in Kathmandu
+sofa set Lalitpur
+bed furniture Kathmandu
+wardrobe Lalitpur
+custom furniture Kathmandu
+interior furniture Nepal
+premium furniture Nepal
+काठमाडौं फर्निचर पसल
+ललितपुर फर्निचर
+भाइसेपाटी फर्निचर
+कस्टम फर्निचर नेपाल
+```
+
+Do not keyword-stuff.
+
+---
+
+## **Instruction 51: Implement Product SEO**
+
+Every important product should have:
+
+```text
+/products/product-name/
+```
+
+Support:
+
+* Unique SEO title
+* Unique SEO description
+* Product description
+* Descriptive ALT text
+* Breadcrumbs
+* Internal links
+* Related products
+* Product structured data where appropriate
+
+---
+
+## **Instruction 52: Implement Structured Data**
+
+Use JSON-LD where appropriate.
+
+Consider:
+
+```text
+LocalBusiness
+Organization
+BreadcrumbList
+Product
+```
+
+Only use verified information.
+
+Never fabricate:
+
+* Price
+* Ratings
+* Reviews
+* Availability
+* SKU
+* Material
+* Dimensions
+
+Omit unknown values.
+
+---
+
+## **Instruction 53: Optimize Images for SEO and Speed**
+
+Use:
+
+* WebP
+* AVIF
+* Responsive images
+* Lazy loading
+* Compression
+* Correct dimensions
+* Meaningful filenames
+* Descriptive ALT text
+
+Do not load huge original photographs directly when optimized versions can be used.
+
+---
+
+## **Instruction 54: Build a Performance-First Experience**
+
+Implement:
+
+* Responsive image sizing
+* Lazy loading
+* Image compression
+* Code splitting where appropriate
+* Optimized fonts
+* Minimal JavaScript
+* Minimal third-party scripts
+* Lightweight animation
+* Only critical asset preloading
+
+Prioritize excellent Core Web Vitals.
+
+---
+
+## **Instruction 55: Build Accessibility Into Every Page**
+
+Implement:
+
+* Semantic HTML
+* Keyboard navigation
+* Visible focus states
+* Proper heading hierarchy
+* Descriptive ALT text
+* Accessible buttons
+* Proper labels
+* Strong color contrast
+* Screen-reader-friendly interactions
+* Reduced-motion support
+
+Do not sacrifice usability for visual design.
+
+---
+
+## **Instruction 56: Make Mobile a First-Class Experience**
+
+The website must work beautifully on:
+
+* Android
+* iPhone
+* Tablets
+* Laptops
+* Desktop
+* Large desktop displays
+
+On mobile:
+
+* Buttons must be easy to tap
+* Product images must remain prominent
+* Typography must remain readable
+* Navigation must remain simple
+* WhatsApp must remain accessible
+* Pages must load quickly
+* No horizontal overflow
+* Product browsing must remain easy
+
+---
+
+## **Instruction 57: Create a Refined Animation System**
+
+Use motion to reinforce premium quality.
+
+Use:
+
+* Fade-up
+* Fade-in
+* Image reveal
+* Subtle scale
+* Staggered entrances
+* Hover image zoom
+* Underline transitions
+* Smooth section transitions
+
+Hero:
+
+**Subtle reveal**
+
+Products:
+
+**Small elevation + image scale**
+
+Gallery:
+
+**Staggered entrance**
+
+Buttons:
+
+**Subtle hover transitions**
+
+Avoid:
+
+* Aggressive bounce
+* Flashing
+* Spinning furniture
+* Excessive parallax
+* Continuous moving elements
+* Animation on every text element
+
+Honor:
+
+```text
+prefers-reduced-motion
+```
+
+---
+
+## **Instruction 58: Add Microinteractions**
+
+Use:
+
+* Product image zoom
+* CTA arrow movement
+* Button fill transition
+* Category image reveal
+* Navigation underline animation
+* Smooth scrolling
+* Subtle desktop cursor treatment only if it genuinely improves the experience
+
+Keep mobile interactions simple.
+
+---
+
+## **Instruction 59: Build Bilingual Readiness**
+
+Design the structure for English + Nepali.
+
+English:
+
+```text
+Home
+Collections
+Products
+About
+Projects
+Contact
+Request Price
+Explore Collection
+View Details
+```
+
+Nepali:
+
+```text
+हाम्रो बारेमा
+हाम्रा उत्पादनहरू
+सम्पर्क गर्नुहोस्
+मूल्य थाहा पाउनुहोस्
+हाम्रो काम हेर्नुहोस्
+घरलाई अझ सुन्दर बनाऔं
+```
+
+Do not force bilingual text into every sentence.
+
+Do not create machine-translation-like layouts.
+
+Ensure Nepali text does not break the design.
+
+---
+
+## **Instruction 60: Build the Footer**
+
+Keep the footer premium but simple.
+
+Include:
+
+### Brand
+
+Galaxy Decor logo.
+
+### Statement
+
+> **We Design your Home more Beautiful**
+
+### Navigation
+
+* Collections
+* Products
+* Custom Furniture
+* Projects
+* About
+* Contact
+
+### Contact
+
+* Phone numbers
+* Email
+* Bhaisepati, Lalitpur
+
+### Social
+
+* Facebook
+* Instagram
+
+### Legal
+
+* Privacy
+* Terms
+
+### Copyright
+
+Appropriate copyright information.
+
+---
+
+# **Notes:**
+
+## **Note 1 — MVP Scope**
+
+The first production release should include:
+
+### Homepage
+
+* Real Galaxy Decor hero/banner
+* Minimal Luxury visual system
+* Brand philosophy
+* Categories
+* Featured products
+* Real product photographs
+* Strong product descriptions
+* Custom Furniture section
+* Why Galaxy Decor
+* Projects/showcase
+* Real storefront
+* Contact CTA
+
+### Products Page
+
+* All products
+* Category filtering
+* Search
+* Premium product cards
+* Product descriptions
+* View Details
+* Request Price
+
+### Product Detail Page
+
+* Large image gallery
+* Product name
+* Description
+* Verified specifications
+* Price or Price on Request
+* WhatsApp
+* Call
+* Related products
+
+### Custom Furniture Page
+
+* Custom furniture introduction
+* Real examples where available
+* Custom requirement CTA
+* WhatsApp
+
+### Projects Page
+
+* Real project/showroom photography
+* Project descriptions
+* Editorial gallery
+
+### About Page
+
+* Galaxy Decor introduction
+* Brand philosophy
+* Real storefront photograph
+* Location
+
+### Contact Page
+
+* Phone
+* WhatsApp
+* Email
+* Location
+* Map
+* Get Directions
+* Request Price
+
+---
+
+## **Note 2 — MVP Feature Matrix**
+
+| Feature                  | MVP |
+| ------------------------ | --: |
+| Premium homepage         |   ✅ |
+| Minimal Luxury design    |   ✅ |
+| Real Galaxy Decor photos |   ✅ |
+| Product catalogue        |   ✅ |
+| Product descriptions     |   ✅ |
+| Category filtering       |   ✅ |
+| Product search           |   ✅ |
+| Product detail pages     |   ✅ |
+| Image gallery            |   ✅ |
+| WhatsApp enquiry         |   ✅ |
+| Call button              |   ✅ |
+| Request Price            |   ✅ |
+| Custom Furniture page    |   ✅ |
+| Projects page            |   ✅ |
+| Contact page             |   ✅ |
+| Mobile responsive        |   ✅ |
+| SEO foundation           |   ✅ |
+| Local SEO                |   ✅ |
+| Product structured data  |   ✅ |
+| Sitemap                  |   ✅ |
+| robots.txt               |   ✅ |
+| Performance optimization |   ✅ |
+| Accessibility            |   ✅ |
+| Floating WhatsApp        |   ✅ |
+| Wishlist                 |   ❌ |
+| Customer accounts        |   ❌ |
+| Checkout                 |   ❌ |
+| Payments                 |   ❌ |
+| Inventory management     |   ❌ |
+| AI room visualization    |   ❌ |
+| Product comparison       |   ❌ |
+| AI recommendation        |   ❌ |
+| Customer dashboard       |   ❌ |
+
+---
+
+## **Note 3 — MVP Priority Order**
+
+Prioritize implementation in this order:
+
+```text
+1. Homepage
+2. Product Catalogue
+3. Product Detail Pages
+4. Product Descriptions
+5. Product Photography
+6. Category Filtering
+7. Product Search
+8. Request Price
+9. WhatsApp
+10. Call
+11. Custom Furniture
+12. Projects
+13. About
+14. Contact
+15. SEO
+16. Mobile Optimization
+17. Accessibility
+18. Performance
+```
+
+---
+
+## **Note 4 — Advanced Features Roadmap**
+
+### Phase 2 — Conversion
+
+Add:
+
+* Smarter enquiry forms
+* WhatsApp product-enquiry automation
+* Photo-based enquiries
+* Analytics
+* Lead tracking
+
+### Phase 3 — Discovery
+
+Add:
+
+* Shop by Room
+* Shop by Style
+* Wishlist
+* Recently Viewed
+* Product Comparison
+
+### Phase 4 — Intelligence
+
+Add:
+
+* AI Furniture Recommendations
+* AI Room Visualization
+* Space Planning
+* Size / Fit Assistant
+
+### Phase 5 — Digital Interior Experience
+
+Add:
+
+* Interactive Rooms
+* Shop the Room
+* Before / After Projects
+* Virtual Design Consultation
+* Advanced Space Planning
+
+---
+
+## **Note 5 — Future Feature Details**
+
+The advanced roadmap must preserve the following features:
+
+### Shop by Room
+
+Browse by:
+
+* Living Room
+* Bedroom
+* Dining Room
+* Study
+* Office
+
+### Shop by Style
+
+Browse by:
+
+* Modern
+* Minimal
+* Classic
+* Luxury
+* Contemporary
+
+### Wishlist
+
+Save products without requiring an account.
+
+### Recently Viewed
+
+Remember previous products using local storage.
+
+### Product Comparison
+
+Compare:
+
+* Style
+* Material
+* Dimensions
+* Customization
+* Other verified specifications
+
+### Smart Recommendations
+
+Use related furniture and category-based recommendations first.
+
+### Photo-Based Enquiry
+
+Customer uploads a room photograph and describes the requirement.
+
+### Before / After
+
+Interactive comparison slider for genuine project photography.
+
+### Shop the Room
+
+Clickable hotspots inside genuine Galaxy Decor project photographs.
+
+### AI Room Visualizer
+
+Upload room → select Galaxy Decor product → generate visualization.
+
+### Space Planner
+
+Enter room dimensions → explore compatible furniture.
+
+### Size / Fit Assistant
+
+Compare room measurements to real furniture measurements.
+
+### AI Furniture Recommendation
+
+Use:
+
+* Room
+* Style
+* Color
+* Size
+* Furniture requirement
+
+### Virtual Design Consultation
+
+Submit:
+
+**Room Photograph + Requirements + Preferences**
+
+---
+
+## **Note 6 — Product Experience Principle**
+
+Every product experience should answer three questions quickly:
+
+### What is it?
+
+Clear image + clear product name.
+
+### Why should I care?
+
+Useful and polished product description.
+
+### What should I do next?
+
+**Request Price → WhatsApp → Call → Visit Showroom**
+
+---
+
+## **Note 7 — Content Accuracy**
+
+Never fabricate business or product information.
+
+Never invent:
+
+* Testimonials
+* Ratings
+* Reviews
+* Customer names
+* Awards
+* Certifications
+* Years of experience
+* Employee counts
+* Customer counts
+* Warranty
+* Delivery
+* Installation
+* Manufacturing claims
+* Prices
+* Dimensions
+* Materials
+* Colors
+* Availability
+* SKU
+* Any other unsupported business claim
+
+Only verified Galaxy Decor information should reach production.
+
+---
+
+## **Note 8 — Product Description Rule**
+
+Product descriptions are important to the customer experience.
+
+Descriptions should be:
+
+* Premium
+* Sophisticated
+* Natural
+* Human
+* Concise
+* Useful
+* Descriptive
+
+The creator-provided meaning or perception must remain intact.
+
+Improve wording, clarity and presentation without inventing attributes or changing what the product actually represents.
+
+---
+
+## **Note 9 — Visual Hierarchy**
+
+Maintain this priority:
+
+```text
+1. Real furniture photography
+2. Product / category name
+3. Product description
+4. Trust / value information
+5. Contact CTA
+6. Supporting details
+```
+
+Photography should have room to breathe.
+
+Avoid overcrowding images with text.
+
+---
+
+## **Note 10 — Premium Design Philosophy**
+
+The website should look expensive because of:
+
+* Space
+* Typography
+* Photography
+* Composition
+* Proportion
+* Consistency
+* Restraint
+
+NOT because of:
+
+* Excessive effects
+* Huge gradients
+* Excessive animation
+* Excessive shadows
+* Unnecessary 3D
+* Over-designed cards
+
+---
+
+## **Note 11 — Analytics Roadmap**
+
+Future analytics should track:
+
+### Product Views
+
+Which furniture receives the most attention?
+
+### CTA Clicks
+
+Track:
+
+* WhatsApp
+* Call
+* Request Price
+
+### Category Interest
+
+Which furniture category receives the most attention?
+
+### Search Queries
+
+What are visitors searching for?
+
+### Conversion Funnel
+
+```text
+Homepage
+→
+Product
+→
+Request Price
+→
+WhatsApp
+```
+
+---
+
+## **Note 12 — Client Configuration**
+
+Keep the following values configurable:
+
+```text
+Brand Style:
+[ Minimal / Luxury / Modern / Modern Classic / Warm ]
+
+Preferred Main Background:
+[ Ivory / White / Black / Mixed ]
+
+Accent:
+[ Gold / Orange / Both ]
+
+Language:
+[ English / English + Nepali ]
+
+Show Prices:
+[ Yes / No ]
+
+Primary CTA:
+[ Request Price / Get Quote / WhatsApp ]
+
+Primary WhatsApp Number:
+[ Confirm ]
+
+Primary Email:
+[ Confirm ]
+
+Opening Hours:
+[ Confirm ]
+
+Delivery:
+[ Confirm ]
+
+Customization:
+[ Confirm ]
+
+Warranty:
+[ Confirm ]
+
+Installation:
+[ Confirm ]
+
+Main Product Categories:
+[ Confirm ]
+
+Testimonials:
+[ Available / Not Available ]
+
+Project Photos:
+[ Available / Not Available ]
+
+Google Business Profile:
+[ Yes / No ]
+
+Domain:
+[ Confirm ]
+
+Preferred Overall Feeling:
+[ Minimal Luxury ]
+```
+
+Do not silently make client-owned decisions.
+
+---
+
+## **Note 13 — Recommended Development Roadmap**
+
+### **PHASE 1 — MVP**
+
+**Premium Digital Showroom**
+
+Focus on:
+
+* Premium homepage
+* Authentic photography
+* Product descriptions
+* Product discovery
+* Product detail pages
+* Category filtering
+* Product search
+* WhatsApp
+* Call
+* Request Price
+* Contact
+* SEO foundation
+* Mobile experience
+* Accessibility
+* Performance
+
+↓
+
+### **PHASE 2 — CONVERSION**
+
+**Better Lead Generation**
+
+Add:
+
+* Smarter forms
+* WhatsApp automation
+* Photo enquiries
+* Analytics
+* Lead tracking
+
+↓
+
+### **PHASE 3 — DISCOVERY**
+
+**Better Product Exploration**
+
+Add:
+
+* Shop by Room
+* Shop by Style
+* Wishlist
+* Recently Viewed
+* Product Comparison
+
+↓
+
+### **PHASE 4 — INTELLIGENCE**
+
+**AI-Powered Experience**
+
+Add:
+
+* AI Recommendations
+* AI Room Visualization
+* Space Planning
+* Size / Fit Assistant
+
+↓
+
+### **PHASE 5 — DIGITAL INTERIOR EXPERIENCE**
+
+**Interactive Furniture Platform**
+
+Add:
+
+* Interactive Rooms
+* Shop the Room
+* Before / After
+* Virtual Consultation
+* Advanced Space Planning
+
+---
+
+## **Note 14 — Final QA Checklist**
+
+### Design
+
+Verify:
+
+* Premium appearance
+* Minimal Luxury consistency
+* Furniture-brand identity
+* Authentic photography dominance
+* Strong whitespace
+* Restrained gold usage
+* Restrained orange usage
+* No generic template appearance
+* No visual clutter
+
+### UX
+
+Verify:
+
+* Products discoverable within seconds
+* Search works
+* Filtering works
+* Product pages are understandable
+* Request Price works
+* WhatsApp works
+* Call works
+* Location is easy to find
+* Mobile navigation is effortless
+
+### Content
+
+Verify:
+
+* Every important product has a useful description
+* Product descriptions accurately represent products
+* No fabricated claims
+* No fake reviews
+* No fake ratings
+* No fake statistics
+* Contact details are accurate
+* Secondary email is not incorrectly presented as primary
+
+### SEO
+
+Verify:
+
+* Unique page titles
+* Unique meta descriptions
+* Clean URLs
+* Canonical URLs
+* Breadcrumbs
+* ALT text
+* Descriptive filenames
+* Structured data
+* Sitemap
+* robots.txt
+* Internal linking
+* LocalBusiness information
+* Open Graph metadata
+* Social metadata
+
+### Performance
+
+Verify:
+
+* Images compressed
+* Responsive images
+* Lazy loading
+* WebP/AVIF
+* Lightweight animations
+* Minimal third-party scripts
+* No unnecessary heavy libraries
+* Fast mobile loading
+* Core Web Vitals prioritized
+
+### Accessibility
+
+Verify:
+
+* Keyboard navigation
+* Visible focus states
+* Sufficient contrast
+* Accessible controls
+* Proper headings
+* Proper form labels
+* ALT text
+* Reduced motion
+* Screen-reader-friendly interactions
+
+---
+
+## **Note 15 — Final Experience Principle**
+
+The final website must communicate:
+
+> **“This is not simply a shop selling furniture. This is a brand that understands how people want their homes to feel.”**
+
+The website must be:
+
+**Premium without being complicated.**
+
+**Minimal without being empty.**
+
+**Visual without being cluttered.**
+
+**Animated without being distracting.**
+
+**SEO-friendly without looking like an SEO website.**
+
+**Static without feeling static.**
+
+---
+
+## **Note 16 — Final Product Formula**
+
+The entire Galaxy Decor experience should be built around:
+
+```text
+REAL GALAXY DECOR PRODUCTS
++
+REAL GALAXY DECOR PHOTOGRAPHY
++
+STRONG PRODUCT DESCRIPTIONS
++
+MINIMAL LUXURY PRESENTATION
++
+EASY PRODUCT DISCOVERY
++
+PRODUCT EVALUATION
++
+EASY CONTACT
++
+SEO FOUNDATION
++
+FAST MOBILE EXPERIENCE
+=
+GALAXY DECOR PREMIUM DIGITAL SHOWROOM
+```
+
+The final result should feel like a **real premium furniture brand with a digital showroom**, not a website template filled with furniture images.
+
+Do not replace Galaxy Decor's identity with generic AI-generated design.
